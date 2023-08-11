@@ -1,5 +1,5 @@
-# HangmanGame
-Welcome to the HangmanGame! This is a simple Python-based word guessing game where you try to guess the name of a randomly chosen country one letter at a time or by entering the entire word. The game provides you with hints about the number of letters in the word and displays your progress as you make correct guesses.
+# Country Guessing Game
+Welcome to the Country Guessing Game! This is a simple Python-based word guessing game where you try to guess the name of a randomly chosen country one letter at a time or by entering the entire word. The game provides you with hints about the number of letters in the word and displays your progress as you make correct guesses.
 
 ## How to Play
 Make sure you have Python installed on your machine.
