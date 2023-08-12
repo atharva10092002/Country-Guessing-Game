@@ -38,7 +38,7 @@ for turns in range(7):
                 count += 1
                 break
             else:
-                if turns != 7:
+                if turns != 6:
                     print("Oops, wrong guess. Try again!")
                     break
                 else:
